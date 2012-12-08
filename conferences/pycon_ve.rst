@@ -24,7 +24,7 @@ we can't, but we're almost always in touch through
 the mailing list, that was the way we did everything
 for the PyConVE 2012.
 
-Why a PyCon anyway?, the beggining
+Why a PyCon anyway?, the beginning
 ----------------------------------
 
 On 2011 we did a PyDay and it was great, we has a really
@@ -35,17 +35,17 @@ members told us that it wasn't going to work, but we did it
 anyway, we thought that was the only way the whole community
 finally met and start doing something bigger.
 
-Also, we wanted to meassure how big the comminity is
+Also, we wanted to measure how big the community is
 or how big it would become, how many people would be or
 is interested in programming in Python.
 
 So, we decided we'll do it around November 2011 and we started
 planning on December 2011. I wrote Wesley Chun to ask him if
 he would like to come down and speak at our event, he couldn't
-make it, but he gave me a lot of contacts who would surelly be
+make it, but he gave me a lot of contacts who would surely be
 interested and some of them were in South America. By the beginning
 of January 2013, I had 2 confirmed international speakers: 
-Facundo Batista (Argentina) and Érico Andrei (Brasil) and 
+Facundo Batista (Argentina) and Érico Andrei (Brazil) and 
 another one to be confirmed: José Montes de Oca, from Google, thanks
 to Wesley.
 
@@ -55,7 +55,7 @@ sponsor at that moment.
 
 Then I wrote to my University to ask if they could
 host the event for free, the answer was a solid **yes**
-so I reserved two labs and one audotorium for the three
+so I reserved two labs and one auditorium for the three
 days of the event: November 1, 2 and 3rd.
 
 Now, we had international speakers and a place to 
@@ -64,7 +64,7 @@ run the PyCon, but no sponsors and no national speakers.
 In the Middle
 -------------
 
-Well, we were on March 2013, I saw the Argentinans
+Well, we were on March 2013, I saw the Argentinians
 launched the website for their PyCon, we didn't have
 anything, not even an *Under Construction* page and I
 had a Panic Attack. I rushed to find a sponsor to develop
@@ -81,7 +81,7 @@ speakers already registered in the website, so, I felt better.
 
 Now, the real deal was finding a sponsor for the flying tickets
 and the Hotel for the international speakers. Érico accepted staying
-at my place and Facundo was comming with his family, so I needed
+at my place and Facundo was coming with his family, so I needed
 to find a bigger room. I wrote a couple of emails to several companies
 that work with Python based technologies and I finally got them to pay
 for the tickets and the Hotel for Facundo & family.
@@ -115,13 +115,13 @@ good feedback for the event.
 Some lessons we (or I) learned from the PyCon:
 
 1. There is no need to have a bank account and a legal
-   figure to get sponsors, althought for this kind of events
-   it is a nice plus, we lost some sponsorst for not having this.
+   figure to get sponsors, although for this kind of events
+   it is a nice plus, we lost some sponsors for not having this.
 2. If nobody wants to help at first, don't let it keep you from
    doing things. People is more likely to join if things are moving
    rather than starting from scratch.
 3. There are things that you can't control, like traffic jams and 
-   internal polithics or burocracy at the university that hosts the event.
+   internal politics or bureaucracy at the university that hosts the event.
    You have to know it and accept it, that's the only way to relax if
    something happens. 
 4. You can have a Plan B if something happens, but you can't foresee
