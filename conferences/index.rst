@@ -15,6 +15,8 @@ Contents:
    :maxdepth: 2
 
    pycon_us
+   pycon_ve
+   pyday_ccs
 
 
 Indices and tables
