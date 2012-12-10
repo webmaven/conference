@@ -43,4 +43,16 @@ Internet access as well.
 The typical PyCon conference uses upwards of 50Mbps of network bandwidth at
 peak, to support around 1,200 attendees.
 
+Also, many venues are not set up to provide wireless Internet to a
+technical-oriented conference.  Because there are so many devices being
+used at the same time, they often collide.  A good rule of thumb, we have
+found, is one dual-band (2.4 and 5.2GHz) 802.11n access-point for every 20
+users.  If the venue networking can't provide this many, there will almost
+certainly be problems.
+
+See `Sean's PyCon Network Reviews`_ for more detailed information on what
+worked and what didn't at previous PyCon events.
+
+.. _Sean's PyCon Network Reviews:
+   http://www.tummy.com/Community/Articles/pycon2012-network/
 
