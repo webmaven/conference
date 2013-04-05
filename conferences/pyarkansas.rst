@@ -1,7 +1,7 @@
 pyArkansas
 ===========
 
-pyArkansas was started by Chad Cooper and Greg Lindstrom in the summer of 2008. We tried to start up a user group in Arkansas, but honestly we never got it off of the ground, as most folks that we interested lived in different parts of Arkansas, separated by hours of driving. Greg conceived the idea of pyArkansas, and Chad jumped on board to help.
+pyArkansas was started by Greg Lindstrom and Chad Cooper in the summer of 2008. Greg conceived the idea of pyArkansas, and Chad jumped on board to help.
 
 2008
 -----

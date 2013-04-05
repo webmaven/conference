@@ -2,7 +2,7 @@
 Sponsorship
 ===========
 
-Sponsors might not be absolutely required to make a conferene successful, but they sure do help. A lot. Having sponsors allows you to rent a space if needed, lets you provide provide honorariums to speakers, and provide refreshments for your attendees,  Sponsorships can range from and include prize donations, cash, t-shirt sponsorship, web site hosting, and general swag. 
+Sponsors might not be absolutely required to make a conferene successful, but they sure do help. A lot. Having sponsors allows you to rent a space if needed, lets you provide provide honorariums to speakers, and provide refreshments for your attendees. Sponsorships can range from and include prize donations, cash, t-shirt sponsorship, web site hosting, and general swag. 
 
 Sponsorship categories
 ----------------------
@@ -47,6 +47,16 @@ How to get sponsors
 -------------------
 
 So just how do you get sponsors for your conference? A lot of networking, cold emailing, and maybe a phone call or two. 
+
+Networking
+++++++++++
+
+Networking is key to getting sponsors. Utilize any and all contacts that you and your group might have. If your conference planning group is part of a Python User Group, tap into that pool of people; they may know people who could be potential sponsors, or they could be potential sponsors themselves! Been to any professional conferences lately (PyCon)? Take a look at the sponsors there and see if any of those companies offer products or services that would be of interest to your attendees. Sponsors aren't just going to throw money around to any and every conference they get hit up for, and they get hit up for a lot. Their product or service needs to be something that could be of interest and usable for your attendees; after all, sponsors are in business to make money afterall. 
+
+Emailing
+++++++++
+
+
 
 
 
