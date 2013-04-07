@@ -82,7 +82,7 @@ UCA Computer Science Department, Conway, AR
 Attendance
 ++++++++++
 
-
+78
 
 Tutorials
 +++++++++
@@ -103,8 +103,9 @@ Sponsors
 +++++++++
 
 * Novasys Health
-* Python Software Foundation
+* Conway Advertising and Promotion Commission
 * Conway Chamber of Commerce
+* Python Software Foundation
 
 Funding
 +++++++
@@ -114,6 +115,8 @@ Swag
 
 2010
 -----
+
+pyArkansas 2010 took place on October 16th.
 
 Location
 ++++++++
@@ -145,7 +148,7 @@ Swag
 2011
 -----
 
-pyArkansas 2011 was on October 11th.
+pyArkansas 2011 was on October 11th. We continued to grow. We had a very simple print program with blank pages for note taking put together for a minimal cost.
 
 Location
 ++++++++
@@ -160,10 +163,26 @@ Attendance
 Tutorials
 +++++++++
 
-
+* Intro to PythonI, Bernard Chen
+* Using Python with Blender I, Gordon Fisher
+* Sphinx I, Brandon Craig Rhodes
+* Data visualization, Brian English
+* Introduction to Python II, Bernard Chen
+* Sphinx II, Brandon Craig Rhodes
+* Using Python with Blender II, Gordon Fisher
+* Python on Heroku, Craig Kerstiens
 
 Talks
 +++++
+
+* Introduction to Django, Wade Austin
+* SQLite - the database you didn't know you had, Greg Lindstrom
+* Introduction to Blender 3D, Gordon Fisher
+* Translating time, Josh Hanna
+* Python on Android, Steve Cohen
+* Designing a simple SQL processor for text files, Dr. Carl Burch
+* Heart your database, Brandon Craig Rhodes
+* Encryption and group theory, Michael J. Hinds
 
 Sponsors
 +++++++++
@@ -172,6 +191,8 @@ Sponsors
 
 Funding
 +++++++
+
+All funding for pyArkansas 2011 came from Novasys Health.
 
 Swag
 ++++
