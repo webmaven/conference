@@ -46,7 +46,7 @@ Swag ideas:
 How to get sponsors
 -------------------
 
-So just how do you get sponsors for your conference? A lot of networking, cold emailing, and maybe a phone call or two. 
+So just how do you get sponsors for your conference? A lot of networking, relationship building, cold emailing, and maybe a phone call or two. 
 
 Networking
 ++++++++++
