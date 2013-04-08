@@ -89,12 +89,13 @@ Tutorials
 
 These morning (roughly 2.5 hours) classes were taught:
 
-* Intro to Python (beginners) - Dr. Bernard Chen, UCA
-* Intro to Python (programmers) - Dr. Carl Burch, Hendrix College
+* Introduction to Python (beginners) - Dr. Bernard Chen, UCA
+* Introduction to Python (programmers) - Dr. Carl Burch, Hendrix College
 * Intermediate Python - Gloria Jacobs
-* Intro to the Django Web Framework - Chad Files, Novasys Health
-* Intro to Jython and Image Processing - Dr. Chenyi Hu, UCA
+* Introduction to the Django Web Framework - Chad Files, Novasys Health
+* Introduction to Jython and Image Processing - Dr. Chenyi Hu, UCA
 * Advanced Django - Jacob Kapan-Moss
+* Python with Blender, Gordon Fisher
 
 Talks
 +++++
@@ -112,6 +113,11 @@ Funding
 
 Swag
 ++++
+
+Prizes
+++++++
+
+* Books from Manning Publications
 
 2010
 -----
@@ -131,8 +137,28 @@ Attendance
 Tutorials
 +++++++++
 
+* Introduction to Python, Dr. Carl Burch
+* Python Teach-In, Brad Allen
+* Data Visulization with Python, W. Emeneker
+* Intro to the Google App Engine, Chris Harris
+* Introduction to GUI Programming, Wayne Werner
+
 Talks
 +++++
+
+* Simple Game Design, Dr. Bernard Chen
+* Blender I, Gordon Fisher
+* Web Framework Overview, Gloria W. Jacobs
+* Scientific Computing, W. Emeneker
+* Freeseer - A Live Presentation Recording Application, L.J. Estorninos
+* Blender II, Gordon Fisher
+* MongoDB, Gloria W. Jacobs
+* Python Meets 3-D CAD (30 min, Nicholas Seward)/Real-time Image Processing, Dr. Gabriel Ferrer
+* What Does This Code Do?, Jeff Rush
+* Concurrency, Gloria W. Jacobs
+* Web Security and Django, Chad Files
+* Programming Mindstorm Robots, Greg Lindstrom
+
 
 Sponsors
 +++++++++
@@ -145,10 +171,15 @@ Funding
 Swag
 ++++
 
+Prizes
+++++++
+
+* Books from O'Reilly Publishing
+
 2011
 -----
 
-pyArkansas 2011 was on October 11th. We continued to grow. We had a very simple print program with blank pages for note taking put together for a minimal cost.
+pyArkansas 2011 was on October 11th. We continued to grow. We had a very simple print program with blank pages for note taking put together for a minimal cost of around $100.
 
 Location
 ++++++++
@@ -163,7 +194,7 @@ Attendance
 Tutorials
 +++++++++
 
-* Intro to PythonI, Bernard Chen
+* Introduction to Python I, Bernard Chen
 * Using Python with Blender I, Gordon Fisher
 * Sphinx I, Brandon Craig Rhodes
 * Data visualization, Brian English
@@ -185,7 +216,7 @@ Talks
 * Encryption and group theory, Michael J. Hinds
 
 Sponsors
-+++++++++
+++++++++
 
 * Novasys Health
 
@@ -213,9 +244,9 @@ Prizes
 * O'Reilly books (11)
 
 2012
------
+----
 
-2012 was a true banner year for pyArkansas. Attendance jumped to over 100, with approximately 110 people in attendance. pyArkansas 2012 was on October 27th. After tyhe 2011 conference, we decided we needed a larger venue that had a room that could fit over 100 people in; this would allow us to have opening and closing sessions along with a keynote. We chose Brewer-Hegeman Conference Center on the campus of UCA, and it worked out great.
+2012 was a true banner year for pyArkansas. Attendance jumped to over 100, with approximately 110 people in attendance. pyArkansas 2012 was on October 27th. After the 2011 conference, we decided we needed a larger venue that had a room that could fit over 100 people in; this would allow us to have opening and closing sessions along with a keynote. We chose Brewer-Hegeman Conference Center on the campus of UCA, and it worked out great. We raised more funds than ever before from more sponsors than ever before, which allowed us to (finally) have a t-shirt, rent the Brewer-Hegeman Conference Center, and provide our attendees with afternoon beverages. We intended to have all tutorials and talks video recorded, but the arrangements for that literally fell through the week before the conference.
 
 Location
 ++++++++
@@ -260,7 +291,9 @@ Talks
 * Dunder What? The power of Python's Data Model by Luke Lee
 
 Sponsors
-+++++++++
+++++++++
+
+We pushed hard for funding in 2012. We defined funding levels and put together a sponsorship prospectus and believe those helped tremendously in acquiring funds.
 
 * Novasys Health
 * New Relic
@@ -272,29 +305,46 @@ Sponsors
 * Enthought
 * Django Software Foundation
 * 10gen|MongoDB
-* Manning Publications
-* Wingware
-* O'Reilly
-* Nichols Software, Inc.
-* No Starch Press
-* PyCharm
-* Startup Weekend Tulsa
+
+Funding
++++++++
+
+We raised our most funds to date in 2012 with funding sponsors of Novasys Health, New Relic, the PSF, Google, Heroku, Work for Pie, Mozilla, Enthought, the Django Software Foundation, and 10gen|MongoDB.
+
+Swag
+++++
+
+Our swag was pretty awesome in 2012. Who doesn't love stickers?
+
+* 10gen|MongoDB
+* Python Software Foundation
 * 4imprint
 * Malvern National Bank
 * StackExchange
 * Atlassian
 * SendaFlyingCard.com
-
-Funding
-+++++++
-
-Swag
-++++
+* Wingware
+* No Starch Press
+* Bitbucket
+* New Relic
 
 Prizes
 ++++++
 
+Most. Prizes. Ever. 
+
+* Manning Publications sent a huge box of books
+* Wingware has supported us every year and again donated Wing IDE licenses
+* O'Reilly has also supported us every year and again sent several boxes of books
 * 2 Raspberry Pis courtesy of Nichols Software, Inc.
+* No Starch Press sent several boxes of books
+* PyCharm offered up 5 free IDE licenses
+* Startup Weekend Tulsa gave us a free pass to give away
+* New Relic gave several Nerd Life t-shirts
+* Stackexchange gave us a whole box of Stackoverflow and Stackexchange t-shirts
+
+
+
 
 
 
