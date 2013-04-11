@@ -2,6 +2,24 @@
 Venue selection and negotiation
 ===============================
 
+Types of venues
+---------------
+
+For regional conferences, venues basically fall into two types:
+
+* Free
+* Not free
+
+Free
+++++
+
+If you are just starting out, it's best for your venue to be free of cost as it will make things much easier on your event and your budget. A good place to look for hosting for your event is local colleges and universities, especially computer science departments. Several regional conferences in the U.S. have had great success with tapping into the resources available at computer science departments at local higher learning institutions. Many computer science departments are now using Python as their "Intro to programming" language, so they would be very ammicable to hosting your event and helping in many ways.
+
+Not free
+++++++++
+
+Once you are able to secure funding from sponsors and your event is large enough, you might need to move into a larger space, and these oftentimes will cost you money. Again, many collges and universities have conference centers for rent that work perfectly for regional conferences with up to several hundred attendees. For a quality conference center that includes staff, rooms, internet, and other ammenities, expect to shell out at least $1000 USD to several thousand USD per day. 
+
 Internet
 --------
 
