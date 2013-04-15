@@ -28,4 +28,4 @@ dedicated to event registration.
   
   
 .. _Eventbrite: http://www.eventbrite.com
-.. _Eventzilla: http://www.eventzilla.com
+.. _Eventzilla: http://www.eventzilla.net
