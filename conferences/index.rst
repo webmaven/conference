@@ -17,7 +17,7 @@ Contents:
    pycon_us
    pycon_ve
    pyday_ccs
-   pyarkansas.rst
+   pyarkansas
 
 
 Indices and tables
